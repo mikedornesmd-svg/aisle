@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aisle",
+      "hasCanvas": false,
+      "bodyTextLen": 268,
+      "bodyTextHash": "71c832aa457cf0034ea5d08735b55d11dc0028d12714a4028c06ad04b641a19b",
+      "bodyTextPrefix": "Aisle Nearby grocery sales ZIP or city Find sales Use my locatio",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aisle",
+      "hasCanvas": false,
+      "bodyTextLen": 268,
+      "bodyTextHash": "71c832aa457cf0034ea5d08735b55d11dc0028d12714a4028c06ad04b641a19b",
+      "bodyTextPrefix": "Aisle Nearby grocery sales ZIP or city Find sales Use my locatio",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
